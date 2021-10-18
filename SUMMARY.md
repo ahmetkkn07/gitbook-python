@@ -7,8 +7,10 @@
 ## Reference
 
 * [Veri Yapıları](reference/veri-yapilari/README.md)
-  * [Integer (int)](reference/veri-yapilari/integer-int.md)
-  * [Float (float)](reference/veri-yapilari/float-float.md)
+  * [Sayılar (numbers)](reference/veri-yapilari/sayilar-numbers/README.md)
+    * [Integer (int)](reference/veri-yapilari/sayilar-numbers/integer-int.md)
+    * [Float (float)](reference/veri-yapilari/sayilar-numbers/float-float.md)
+    * [Complex (complex)](reference/veri-yapilari/sayilar-numbers/complex-complex.md)
   * [Liste (list)](reference/veri-yapilari/liste-list.md)
   * [Tuple](reference/veri-yapilari/tuple.md)
   * [String (str)](reference/veri-yapilari/string-str.md)

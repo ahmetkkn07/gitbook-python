@@ -6,7 +6,7 @@ Public erişim belirteci, değişken veya fonksiyonun dışarıdan erişebilece�
 
 Private erişim belirteci, değişken veya fonksiyona sadece sınıf içerisinden erişilebileceğini belirtir.
 
-Pythonda tanımlanan tüm değişken ve fonksiyonlar normalde publictir. Private olarak tanımlamak için değişken veya fonksiyon adının başına \__ (çift alt tire) getirilir. Aşağıda public ve private değişken ve fonksiyon örnekleri verilmiştir.
+Pythonda tanımlanan tüm değişken ve fonksiyonlar normalde publictir. Private olarak tanımlamak için değişken veya fonksiyon adının başına \_\_ (çift alt tire) getirilir. Aşağıda public ve private değişken ve fonksiyon örnekleri verilmiştir.
 
 {% tabs %}
 {% tab title="Kod" %}
@@ -43,21 +43,21 @@ print(person.__age)
 {% tab title="Çıktı" %}
 Ahmet
 
-Ahmet Traceback (most recent call last): 
+Ahmet Traceback (most recent call last):&#x20;
 
-File "/home/ahmetkkn07/Desktop/private.py", line 24, in 
+File "/home/ahmetkkn07/Desktop/private.py", line 24, in&#x20;
 
-      person.\__calculate_age() 
+&#x20;     person.\_\_calculate\_age()&#x20;
 
-AttributeError: 'Person' object has no attribute '\__calculate_age'
+AttributeError: 'Person' object has no attribute '\_\_calculate\_age'
 
-Traceback (most recent call last): 
+Traceback (most recent call last):&#x20;
 
-File "/home/ahmetkkn07/Desktop/private.py", line 25, in 
+File "/home/ahmetkkn07/Desktop/private.py", line 25, in&#x20;
 
-      print(person.\__age) 
+&#x20;     print(person.\_\_age)&#x20;
 
-AttributeError: 'Person' object has no attribute '\__age'
+AttributeError: 'Person' object has no attribute '\_\_age'
 {% endtab %}
 {% endtabs %}
 

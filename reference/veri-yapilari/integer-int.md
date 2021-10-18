@@ -1,3 +1,0 @@
-# Integer (int)
-
-Yakında
