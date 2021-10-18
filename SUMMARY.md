@@ -20,8 +20,9 @@
 
 ***
 
-* [Nesne Yönelimli Programlama](nesne-yoenelimli-programlama/README.md)
-  * [class](nesne-yoenelimli-programlama/class.md)
-  * [dataclass](nesne-yoenelimli-programlama/dataclass.md)
-  * [function](nesne-yoenelimli-programlama/function.md)
-  * [Kalıtım](nesne-yoenelimli-programlama/kalitim.md)
+* [Nesne Yönelimli Programlama (OOP)](nesne-yoenelimli-programlama-oop/README.md)
+  * [Sınıf (class)](nesne-yoenelimli-programlama-oop/sinif-class/README.md)
+    * [Veri Sınıfı (dataclass)](nesne-yoenelimli-programlama-oop/sinif-class/veri-sinifi-dataclass.md)
+    * [Private ve Public Erişim Belirteçleri](nesne-yoenelimli-programlama-oop/sinif-class/private-ve-public-erisim-belirtecleri.md)
+  * [Fonksiyon (function)](nesne-yoenelimli-programlama-oop/fonksiyon-function.md)
+  * [Kalıtım (Inheritance)](nesne-yoenelimli-programlama-oop/kalitim-inheritance.md)

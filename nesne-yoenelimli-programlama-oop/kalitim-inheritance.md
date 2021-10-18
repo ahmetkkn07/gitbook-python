@@ -1,8 +1,4 @@
----
-description: Inheritance
----
-
-# Kalıtım
+# Kalıtım (Inheritance)
 
 Kalıtım, metotları ve değikenlerini başka bir sınıftan miras alan bir sınıf tanımlamamızı sağlar.
 
