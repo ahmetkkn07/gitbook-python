@@ -17,3 +17,11 @@
 * [İleri Seviye](reference/ileri-seviye/README.md)
   * [multithreading](reference/ileri-seviye/multithreading.md)
   * [multiprocessing](reference/ileri-seviye/multiprocessing.md)
+
+***
+
+* [Nesne Yönelimli Programlama](nesne-yoenelimli-programlama/README.md)
+  * [class](nesne-yoenelimli-programlama/class.md)
+  * [dataclass](nesne-yoenelimli-programlama/dataclass.md)
+  * [function](nesne-yoenelimli-programlama/function.md)
+  * [Kalıtım](nesne-yoenelimli-programlama/kalitim.md)
