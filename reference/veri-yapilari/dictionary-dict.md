@@ -4,7 +4,7 @@ description: >-
   kullanılır.
 ---
 
-# Dictionary
+# Dictionary (dict)
 
 Aşağıda örnek bir dictionary yapısı görülmektedir.
 
@@ -49,11 +49,41 @@ car = {
   "year": 1964,
   "year": 2020
 }
+
 print(car["year"])
+print(car.get("year"))
 ```
 {% endtab %}
 
 {% tab title="Çıktı" %}
 2020
+{% endtab %}
+{% endtabs %}
+
+{% hint style="info" %}
+Anahtar ile erişirken köşeli parantez kullanırsak, eğer o anahtar sözlükte yoksa hata vercektir. Bu hatanın önüne geçmek için get kullanılabilir. Eğer o anahtar sözlükte yoksa None değerini döndürecektir.
+{% endhint %}
+
+### For Döngüsü ile Gezinme
+
+Dictionary nesnesi üzerinde listede olduğundan biraz daha farklı şekilde gezinilir. Aşağıda k anahtarı, v ise değeri temsil etmektedir.
+
+{% tabs %}
+{% tab title="Kod" %}
+```python
+knights = {
+    "gallahad": "the pure", 
+    "robin": "the brave"
+}
+
+for k, v in knights.items():
+    print(k, v)
+```
+{% endtab %}
+
+{% tab title="Çıktı" %}
+gallahad the pure
+
+robin the brave
 {% endtab %}
 {% endtabs %}

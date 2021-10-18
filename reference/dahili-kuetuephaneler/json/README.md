@@ -51,5 +51,5 @@ Aşağıda örnek bir JSON verisi verilmiştir. Bu veride, en dışta bulunan k�
 Json dosyaları, Pythondaki dictionary yapısındadır. Bu dosyaları okumak için dahili kütüphanelerden biri olan "json" kütüphanesi kullanılır.
 
 {% hint style="info" %}
-**Dictionary veri yapısının detayları için: **[dictionary.md](../../veri-yapilari/dictionary.md "mention")****
+**Dictionary veri yapısının detayları için: **[dictionary-dict.md](../../veri-yapilari/dictionary-dict.md "mention")****
 {% endhint %}
