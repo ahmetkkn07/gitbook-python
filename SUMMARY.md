@@ -13,6 +13,7 @@
   * [String (str)](reference/veri-yapilari/string-str.md)
   * [Tuple](reference/veri-yapilari/tuple.md)
   * [Dictionary (dict)](reference/veri-yapilari/dictionary-dict.md)
+  * [Set](reference/veri-yapilari/set.md)
 * [Dahili Kütüphaneler](reference/dahili-kuetuephaneler/README.md)
   * [json](reference/dahili-kuetuephaneler/json/README.md)
     * [load](reference/dahili-kuetuephaneler/json/load.md)
@@ -31,3 +32,4 @@
     * [Private ve Public Erişim Belirteçleri](nesne-yoenelimli-programlama-oop/sinif-class/private-ve-public-erisim-belirtecleri.md)
   * [Fonksiyon (function)](nesne-yoenelimli-programlama-oop/fonksiyon-function.md)
   * [Kalıtım (Inheritance)](nesne-yoenelimli-programlama-oop/kalitim-inheritance.md)
+* [PyQt5](pyqt5.md)
