@@ -1,9 +1,9 @@
 # Table of contents
 
-## Ben
+## About
 
 * [Merhaba Dünya!](README.md)
-* [Hakkımda](ben/hakkimda.md)
+* [Hakkımda](about/hakkimda.md)
 
 ## Reference
 
@@ -35,6 +35,7 @@
   * [multiprocessing](reference/ileri-seviye/multiprocessing.md)
 * [PyQt5](reference/pyqt5.md)
 
-## Basit Programlar
+***
 
-* [Password Generator](basit-programlar/password-generator.md)
+* [Basit Programlar](basit-programlar/README.md)
+  * [Password Generator](basit-programlar/password-generator.md)
