@@ -1,10 +1,16 @@
 # Kurulum
 
-### Python 3.10 Kurulumu
+## Python 3.10 Kurulumu
 
-Windows ve macOS: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+### Windows ve macOS
 
-Linux
+{% embed url="https://www.python.org/downloads" %}
+Linkten indirip kurabilirsiniz
+{% endembed %}
+
+### Linux
+
+Linuxta python3 standart olarak gelmektedir. Ancak son sürümünü kullanmak isterseniz bir terminal penceresinde aşağıdaki komutları tek tek girmelisiniz.
 
 ```bash
 sudo add-apt-repository ppa:deadsnakes/ppa
