@@ -2,6 +2,7 @@
 
 * [Merhaba!](README.md)
 * [Hakkımda](hakkimda.md)
+* [Kurulum](kurulum.md)
 
 ## Reference
 
