@@ -1,11 +1,13 @@
 # Table of contents
 
+## Ben
+
 * [Merhaba Dünya!](README.md)
-* [Hakkımda](hakkimda.md)
-* [Kurulum](kurulum.md)
+* [Hakkımda](ben/hakkimda.md)
 
 ## Reference
 
+* [Kurulum](reference/kurulum.md)
 * [Veri Yapıları](reference/veri-yapilari/README.md)
   * [Sayılar (numbers)](reference/veri-yapilari/sayilar-numbers/README.md)
     * [Integer (int)](reference/veri-yapilari/sayilar-numbers/integer-int.md)
@@ -32,3 +34,7 @@
   * [multithreading](reference/ileri-seviye/multithreading.md)
   * [multiprocessing](reference/ileri-seviye/multiprocessing.md)
 * [PyQt5](reference/pyqt5.md)
+
+## Basit Programlar
+
+* [Password Generator](basit-programlar/password-generator.md)
