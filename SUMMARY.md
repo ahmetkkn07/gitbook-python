@@ -39,3 +39,4 @@
 
 * [Basit Programlar](basit-programlar/README.md)
   * [Password Generator](basit-programlar/password-generator.md)
+  * [Path Walker](basit-programlar/path-walker.md)
