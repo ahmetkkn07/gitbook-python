@@ -60,7 +60,27 @@ car.run()
 
 5\. satırda başlayan fonksiyon constructor fonksiyonudur. 12. satırda bu fonksiyon, iki parametre ile çağrılmıştır. self anahtar kelimesi ise sınıfın kendisine ait değişkenlere erişim için gereklidir.
 
-### Sınıf Değişkenleri ve self Anahtar E
+### Sınıf Değişkenleri ve self Anahtar Kelimesi
 
+Sınıf değişkenleri, sınıftan üretilen her bir nesne için ayrı değer alabilen değişkenlerdir. Sınıf içerisinde self anahtar kelimesi ile, sınıf dışarısında ise nesne ismi ile erişebiliriz. Aşağıda bunun bir örneği görülmektedir.
 
+```python
+class Person:
+    name: str
+    age: int
+    
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+        
+    def change_name(self, new_name):
+        self.name = new_name
+
+person = Person("Ahmet", 22)
+person.change_name("Ahmet KÖKEN")
+person.age = 23
+
+```
+
+Yukarıdaki kod bloğunda 2. ve 3. satırda sınıf değişkenleri tanımlanmıştır. Bunların ilk değerleri init fonksiyonu içerisinde verilmiştir. 10. satırda self anahtar kelimesi ile sınıf değişkenine erişimin bir örneği, 14. satırda ise nesne ile sınıf değişkenlerine erişimin bir örneği verilmiştir.
 
