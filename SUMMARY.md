@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Merhaba!](README.md)
+* [Merhaba Dünya!](README.md)
 * [Hakkımda](hakkimda.md)
 * [Kurulum](kurulum.md)
 
