@@ -41,8 +41,8 @@
 
 ## Advanced
 
-* [multithreading](advanced/multithreading.md)
-* [multiprocessing](advanced/multiprocessing.md)
+* [Multithreading](advanced/multithreading.md)
+* [Multiprocessing](advanced/multiprocessing.md)
 
 ## Libraries
 
