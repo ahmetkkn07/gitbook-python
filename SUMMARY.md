@@ -1,42 +1,52 @@
 # Table of contents
 
-## About
+## About Me
 
 * [Merhaba Dünya!](README.md)
-* [Hakkımda](about/hakkimda.md)
+* [Hakkımda](about-me/hakkimda.md)
 
-## Reference
+## Basics
 
-* [Kurulum](reference/kurulum.md)
-* [Veri Yapıları](reference/veri-yapilari/README.md)
-  * [Sayılar (numbers)](reference/veri-yapilari/sayilar-numbers/README.md)
-    * [Integer (int)](reference/veri-yapilari/sayilar-numbers/integer-int.md)
-    * [Float (float)](reference/veri-yapilari/sayilar-numbers/float-float.md)
-    * [Complex (complex)](reference/veri-yapilari/sayilar-numbers/complex-complex.md)
-  * [Liste (list)](reference/veri-yapilari/liste-list.md)
-  * [Tuple](reference/veri-yapilari/tuple.md)
-  * [String (str)](reference/veri-yapilari/string-str.md)
-  * [Set](reference/veri-yapilari/set.md)
-  * [Dictionary (dict)](reference/veri-yapilari/dictionary-dict.md)
-* [Dahili Kütüphaneler](reference/dahili-kuetuephaneler/README.md)
-  * [json](reference/dahili-kuetuephaneler/json/README.md)
-    * [load](reference/dahili-kuetuephaneler/json/load.md)
-    * [loads](reference/dahili-kuetuephaneler/json/loads.md)
-    * [dump](reference/dahili-kuetuephaneler/json/dump.md)
-    * [dumps](reference/dahili-kuetuephaneler/json/dumps.md)
-* [Nesne Yönelimli Programlama (OOP)](reference/nesne-yoenelimli-programlama-oop/README.md)
-  * [Sınıf (class)](reference/nesne-yoenelimli-programlama-oop/sinif-class/README.md)
-    * [Veri Sınıfı (dataclass)](reference/nesne-yoenelimli-programlama-oop/sinif-class/veri-sinifi-dataclass.md)
-    * [Private ve Public Erişim Belirteçleri](reference/nesne-yoenelimli-programlama-oop/sinif-class/private-ve-public-erisim-belirtecleri.md)
-  * [Fonksiyon (function)](reference/nesne-yoenelimli-programlama-oop/fonksiyon-function.md)
-  * [Kalıtım (Inheritance)](reference/nesne-yoenelimli-programlama-oop/kalitim-inheritance.md)
-* [İleri Seviye](reference/ileri-seviye/README.md)
-  * [multithreading](reference/ileri-seviye/multithreading.md)
-  * [multiprocessing](reference/ileri-seviye/multiprocessing.md)
-* [PyQt5](reference/pyqt5.md)
+* [Python Kurulumu](basics/kurulum.md)
+* [Veri Yapıları](basics/veri-yapilari/README.md)
+  * [Sayılar (numbers)](basics/veri-yapilari/sayilar-numbers/README.md)
+    * [Integer (int)](basics/veri-yapilari/sayilar-numbers/integer-int.md)
+    * [Float (float)](basics/veri-yapilari/sayilar-numbers/float-float.md)
+    * [Complex (complex)](basics/veri-yapilari/sayilar-numbers/complex-complex.md)
+  * [Liste (list)](basics/veri-yapilari/liste-list.md)
+  * [Tuple](basics/veri-yapilari/tuple.md)
+  * [String (str)](basics/veri-yapilari/string-str.md)
+  * [Set](basics/veri-yapilari/set.md)
+  * [Dictionary (dict)](basics/veri-yapilari/dictionary-dict.md)
+* [Nesne Yönelimli Programlama (OOP)](basics/nesne-yoenelimli-programlama-oop/README.md)
+  * [Sınıf (class)](basics/nesne-yoenelimli-programlama-oop/sinif-class/README.md)
+    * [Veri Sınıfı (dataclass)](basics/nesne-yoenelimli-programlama-oop/sinif-class/veri-sinifi-dataclass.md)
+    * [Private ve Public Erişim Belirteçleri](basics/nesne-yoenelimli-programlama-oop/sinif-class/private-ve-public-erisim-belirtecleri.md)
+  * [Fonksiyon (function)](basics/nesne-yoenelimli-programlama-oop/fonksiyon-function.md)
+  * [Kalıtım (Inheritance)](basics/nesne-yoenelimli-programlama-oop/kalitim-inheritance.md)
+* [Kütüphaneler](basics/dahili-kuetuephaneler.md)
+* [Basit Programlar](basics/basit-programlar/README.md)
+  * [Password Generator](basics/basit-programlar/password-generator.md)
+  * [Path Walker](basics/basit-programlar/path-walker.md)
 
-***
+## Advanced
 
-* [Basit Programlar](basit-programlar/README.md)
-  * [Password Generator](basit-programlar/password-generator.md)
-  * [Path Walker](basit-programlar/path-walker.md)
+* [multithreading](advanced/multithreading.md)
+* [multiprocessing](advanced/multiprocessing.md)
+
+## Libraries
+
+* [Numpy](libraries/numpy/README.md)
+  * [array](libraries/numpy/array.md)
+  * [arange](libraries/numpy/arange.md)
+  * [zeros ve ones](libraries/numpy/zeros-ve-ones.md)
+  * [linspace](libraries/numpy/linspace.md)
+  * [eye](libraries/numpy/eye.md)
+  * [rand, randn ve randint](libraries/numpy/rand-randn-ve-randint.md)
+  * [seed](libraries/numpy/seed.md)
+* [Json](libraries/json/README.md)
+  * [load](libraries/json/load.md)
+  * [loads](libraries/json/loads.md)
+  * [dump](libraries/json/dump.md)
+  * [dumps](libraries/json/dumps.md)
+* [PyQt5](libraries/pyqt5.md)
