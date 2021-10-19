@@ -16,6 +16,4 @@ LinkedIn
 YouTube
 {% endembed %}
 
-{% embed url="https://twitter.com/ahmetkkn07" %}
-Twitter
-{% endembed %}
+[https://twitter.com/ahmetkkn07](https://twitter.com/ahmetkkn07)
