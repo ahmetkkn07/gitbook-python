@@ -8,7 +8,7 @@
 ## Basics
 
 * [Python Kurulumu](basics/kurulum.md)
-* [Veri Yapıları](basics/veri-yapilari/README.md)
+* [Değişken Tipleri](basics/veri-yapilari/README.md)
   * [Sayılar (numbers)](basics/veri-yapilari/sayilar-numbers/README.md)
     * [Integer (int)](basics/veri-yapilari/sayilar-numbers/integer-int.md)
     * [Float (float)](basics/veri-yapilari/sayilar-numbers/float-float.md)
@@ -37,6 +37,7 @@
 * [Basit Programlar](basics/basit-programlar/README.md)
   * [Password Generator](basics/basit-programlar/password-generator.md)
   * [Path Walker](basics/basit-programlar/path-walker.md)
+* [Tip Belirtimleri](basics/tip-belirtimleri.md)
 
 ## Advanced
 
