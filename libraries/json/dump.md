@@ -7,6 +7,7 @@ Bir dictionary verisini veya dictionary listesi verisini, dosyaya aktarmaya yara
 ```python
 import json
   
+  
 JSON_FILE = "output.json"
 dict1 ={
     "emp1": {
