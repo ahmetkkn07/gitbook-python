@@ -24,7 +24,6 @@ curl :-sS https://bootstrap.pypa.io/get-pip.py | python3.10
 Arch tabanlı dağıtımlarda paket yükleyici apt değildir. Bu sebeple pacman paket yükleyicisi yardımıyla kurulumu gerçekleştirebilirsiniz.
 
 ```
-sudo pacman -Syu
-sudo pacman -S python310
+sudo pamac install python310
 curl :-sS https://bootstrap.pypa.io/get-pip.py | python3.10
 ```
