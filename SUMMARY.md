@@ -38,6 +38,7 @@
   * [Password Generator](basics/basit-programlar/password-generator.md)
   * [Path Walker](basics/basit-programlar/path-walker.md)
 * [Tip Belirtimleri](basics/tip-belirtimleri.md)
+* [Dunder Metotlar](basics/dunder-metotlar.md)
 
 ## Advanced
 
@@ -60,3 +61,7 @@
   * [dump](libraries/json/dump.md)
   * [dumps](libraries/json/dumps.md)
 * [PyQt5](libraries/pyqt5.md)
+
+## Others
+
+* [Git Komutları](others/git-komutlari.md)
